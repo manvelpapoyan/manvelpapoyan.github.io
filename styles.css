@@ -181,11 +181,11 @@ padding-top: 20px;
     background-size: cover;
     border-radius: 50%;
 }
-.beer{
+.movie{
     height: 90px;
     width: 90px;
     margin:40px;
-    background-image: url(./beer.png);
+    background-image: url(./movie.png);
     background-size: cover;
     border-radius: 50%;
 }
