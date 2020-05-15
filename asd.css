@@ -1,0 +1,201 @@
+body{
+    background-image: url(./bodyimage.jpg);
+    background-size: cover;
+
+}
+
+
+.cvhEader{
+height:100px;
+
+}
+
+.section{
+height: 300px;
+background-image: url(./IMG_7253.JPG);
+background-size: cover;
+border-radius:50%;
+
+}
+.article{
+    height: 400px;
+    
+}
+.secart{
+    float: left;
+    width: 20%;
+    padding-top: 20px;
+   
+    }
+    
+
+.aside{
+    float: left;
+    height: 720px;
+    width: 80%;
+    padding-top:20px;
+}
+
+.mobile{
+    height: 70px;
+   
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+.mail{
+    height: 70px;
+   
+   margin-bottom: 10px;
+   
+}
+.facebook{
+    height: 70px;
+    
+    margin-bottom: 10px;
+}
+.twitter{
+    height: 70px;
+  
+    margin-bottom: 10px;
+}
+.mobileicon{
+background-image: url('./mobile.png');
+background-size: cover;
+height: 50px;
+width: 50px;
+float: left;
+ border-radius: 25px;
+ margin: 5px;
+}
+
+.mailicon{
+    background-image: url('./mail.jpg');
+    background-size: cover;
+    height: 50px;
+    width: 50px;
+    float: left;
+     border-radius: 25px;
+     margin: 5px;  
+}
+.facebookicon{
+    background-image: url('./facebook.png');
+    background-size: cover;
+    height: 50px;
+    width: 50px;
+    float: left;
+     border-radius: 25px;
+     margin: 5px;
+}
+.twittericon{
+    background-image: url('./twitter.png');
+    background-size: cover;
+    height: 50px;
+    width: 50px;
+    float: left;
+     border-radius: 25px;
+     margin: 5px;
+}
+.h1{
+text-align: center;
+padding-top: 20px;
+
+}
+
+.a{
+    float: left;
+    padding-top: 20px;
+}
+
+
+ .skills{
+    height: 80%;
+     width: 15%;
+     float: left;
+     padding: 20px;
+        
+}
+.interests{
+    height: 80%;
+     width: 15%;
+
+     float: left;
+     padding: 20px;
+            
+}
+.html{
+    height: 90px;
+    width: 90px;
+    background-image: url(./html.png);
+    background-size: cover;
+    margin:40px;
+    border-radius: 50%;
+}
+.css{
+    height: 90px;
+    width: 90px;
+    margin:40px;
+    background-image: url(./css.png);
+    background-size: cover;
+    border-radius: 50%;
+}
+.javascript{
+    height: 90px;
+    width: 90px;
+ 
+    margin:40px;
+    background-image: url(./javascript.png);
+    background-size: cover;
+    border-radius: 50%;
+}
+.c{
+    height: 90px;
+    width: 90px;
+   
+    margin:40px;
+    background-image: url(./c++.png);
+    background-size: cover;
+    border-radius: 50%;
+}
+.barca{
+    height: 90px;
+    width: 90px;
+    background-image: url(./barca.png);
+    background-size: cover;
+    margin:40px;
+    border-radius: 20%;
+}
+.chess{
+    height: 90px;
+    width: 90px;
+    margin:40px;
+    background-image: url(./chess.png);
+    background-size: cover;
+    border-radius: 50%;
+}
+.games{
+    height: 90px;
+    width: 90px;
+   
+    margin:40px;
+    background-image: url(./games.png);
+    background-size: cover;
+    border-radius: 50%;
+}
+.beer{
+    height: 90px;
+    width: 90px;
+    margin:40px;
+    background-image: url(./beer.png);
+    background-size: cover;
+    border-radius: 50%;
+}
+.font{
+font-size: 70px;
+}
+.f{
+    font-size: 35px;
+}
+
+
+
+
